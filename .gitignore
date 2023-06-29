@@ -1,4 +1,7 @@
-/env
+#dependecies
 /node_modules
+/env
 /package.json
 /package-lock.json
+
+*.env
