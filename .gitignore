@@ -1,6 +1,6 @@
 #dependecies
 /node_modules
-/env
+/.env
 /package.json
 /package-lock.json
 
